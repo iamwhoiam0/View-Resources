@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">View &amp; Resources</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="reset_my_password">Reset my password</string>
+    <string name="cancel">Cancel</string>
 </resources>
