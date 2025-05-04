@@ -9,4 +9,8 @@
     <color name="secondary">#BDC7DC</color>
     <color name="surface">#111318</color>
     <color name="surface_container_high">#282A2F</color>
+
+    <color name="tertiary">#DBBCE1</color>
+    <color name="outline_variant">#43474E</color>
+    <color name="on_primary">#04305F</color>
 </resources>

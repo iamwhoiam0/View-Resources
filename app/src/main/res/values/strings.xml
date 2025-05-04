@@ -4,4 +4,12 @@
     <string name="password">Password</string>
     <string name="reset_my_password">Reset my password</string>
     <string name="cancel">Cancel</string>
+
+    <string name="cartLabel">Cart</string>
+    <string name="nameItemText">Cart №%1$d</string>
+    <string name="categoryText">Category: %1$s</string>
+    <string name="supportingText">Supporting line text lorem ipsum dolor sit amet, consectetur.</string>
+    <string name="priceText">%1$d$</string>
+    <string name="counterLabel">%1$d Items in your cart</string>
+    <string name="price">$%1$.2f</string>
 </resources>
